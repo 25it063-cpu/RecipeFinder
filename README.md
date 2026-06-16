@@ -4,6 +4,11 @@ A simple and clean Android application built using **Jetpack Compose** that allo
 
 ---
 
+## 🎓 Internship Details
+
+- Intern ID: CITS1726
+- Project: Recipe Finder Android App
+
 ## Features
 
 - 🔍 Search recipes by name or category  
