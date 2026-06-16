@@ -64,6 +64,11 @@ com.example.recipefinder
 └── MainActivity.kt
 
 ## Overview of the app
+<p align="center">
+  <img src="RecipeFinder1.jpeg" width="250"/>
+  <img src="RecipeFinder2.jpeg" width="250"/>
+  <img src="RecipeFinder3.jpeg" width="250"/>
+</p>
 
 
 
